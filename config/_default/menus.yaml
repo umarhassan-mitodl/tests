@@ -1,0 +1,9 @@
+leftnav:
+- identifier: 27baedd8-918b-4486-8d95-5048524ccabd
+  name: mit
+  pageRef: /external-resources/mit
+  weight: 10
+- identifier: e18d28bb-e17b-46a2-9c51-f7291359bcbe
+  name: google
+  pageRef: /external-resources/google
+  weight: 20
